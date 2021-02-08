@@ -1,0 +1,20 @@
+{
+  "base": {
+    "component_1": "#ff0000",
+    "component_2": "#fff000",
+    "component_3": "#ffff00",
+    "component_4": "#fffff0",
+    "component_5": "#ffffff"
+  },
+  "landing": {
+    "component_3": "#aaaa00"
+  },
+  "detail": {
+    "component_3": "#bbbb00"
+  },
+  "player": {
+    "component_3": "#cccc00",
+    "component_4": "#ddddd0",
+    "component_6": "#eeeeee"
+  }
+}
